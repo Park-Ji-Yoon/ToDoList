@@ -44,7 +44,8 @@ body{
 	padding-bottom: 5px;
 }
 .board{
-	background-color: red;
+	background-color: blue;
+	width: 50%;
 }
 li{
   border-bottom: 1px solid #53BDFF;
